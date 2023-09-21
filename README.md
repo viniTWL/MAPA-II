@@ -1,8 +1,8 @@
 # MAPA-II
  Atividade MAPA da matéria de Programação II no curso de ADS da UniCesumar
  
-- Este sistema deve contar com uma tela de login e senha com botão entrar, entretanto deve existir também uma opção de "Cadastrar Novo Usuário" para os casos em que um usuário novo esteja acessando o sistema.
-- Este sistema deve possuir a tela usando Java SWING e conexão com banco de dados de sua preferência usando JDBC como tipo de conexão.
+* Este sistema deve contar com uma tela de login e senha com botão entrar, entretanto deve existir também uma opção de "Cadastrar Novo Usuário" para os casos em que um usuário novo esteja acessando o sistema.
+* Este sistema deve possuir a tela usando Java SWING e conexão com banco de dados de sua preferência usando JDBC como tipo de conexão.
 
 O programa inicia na tela de login, e o botão redireciona para a tela de cadastro
 
